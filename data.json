@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Los Angeles Rams",
+        "league": "NFL",
+        "link": "https://www.espn.com/nfl/team/_/name/lar/los-angeles-rams"
+    },
+    {
+        "name": "Los Angeles Dodgers",
+        "league": "MLB",
+        "link": "https://www.espn.com/mlb/team/_/name/lad/los-angeles-dodgers"
+    },
+    {
+        "name": "Los Angeles Chargers",
+        "league": "NFL",
+        "link": "https://www.espn.com/nfl/team/_/name/lac/los-angeles-chargers"
+    }
+]
