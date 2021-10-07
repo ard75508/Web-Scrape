@@ -116,8 +116,8 @@ driver.quit()
 # write python object to new json file
 # WORKS
 
-teamObj = teamList
-jsonStr = json.dumps(teamObj)
-jsonFile = open("data.json", "w")
-jsonFile.write(jsonStr)
-jsonFile.close()
+# teamObj = teamList
+# jsonStr = json.dumps(teamObj)
+# jsonFile = open("data.json", "w")
+# jsonFile.write(jsonStr)
+# jsonFile.close()
