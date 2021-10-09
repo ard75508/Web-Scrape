@@ -25,7 +25,8 @@ teamList = []
 
 options = Options()
 options.headless = True
-PATH = "/Users/braddodds/Documents/chromedriver"    # Path of chrome driver
+#PATH = "/Users/braddodds/Documents/chromedriver"    # Path of chrome driver
+PATH = "/Users/ard75508/Documents/chromedriver"
 driver = webdriver.Chrome(PATH, options=options)    # headless driver options
 
 
